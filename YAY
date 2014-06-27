@@ -1,0 +1,4 @@
+for (var yay = 0; yay < 100; yay++)
+{
+  console.log("Yay forever!")
+}
